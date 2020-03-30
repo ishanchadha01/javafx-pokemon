@@ -1,0 +1,35 @@
+snorlax
+yawn 4 water
+lick 4 fire
+bite 6 grass
+shadowball 12 flying
+
+charizard
+growl 5 flying
+slash 7 fire
+flare 5 grass
+inferno 10 water
+
+pikachu
+thunder 5 water
+electroweb 6 grass
+lightning 7 flying
+superthunder 12 fire
+
+pidgey
+roost 2 grass
+wind 3 fire
+fly 5 flying
+whirlwind 8 water
+
+bulbasaur
+whip 4 fire
+razor 10 water
+synthesis 1 flying
+bullet 11 grass
+
+squirtle
+spray 5 water
+hydropump 4 grass
+pulse 9 flying
+explode 14 fire
